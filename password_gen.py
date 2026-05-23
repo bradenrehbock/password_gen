@@ -6,7 +6,6 @@
 
 import string
 import secrets
-import numpy as np
 
 
 # In[4]:
