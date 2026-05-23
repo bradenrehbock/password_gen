@@ -20,7 +20,7 @@
                 Include Numbers
             </label>
 
-            <p id="result">{{ password }}</p>
+            <p id="result">{{ password if password else "Your Password Will Appear Here" }}</p>
 
             <button type="submit" class="primary-btn">Generate Password</button>
         </form>
