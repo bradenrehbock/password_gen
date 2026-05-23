@@ -15,6 +15,14 @@ A generated password may include lowercase letters, uppercase letters, symbols, 
 
 `U;IRDbfWiv)Q`
 
+## Live Demo
+You can view and use the deployed version of this project here:
+
+[Password Generator Live App](https://password-gen-o68x.onrender.com)
+
+## Project Overview
+This is a Flask-based password generator web application that allows users to choose a password length and decide whether to include numbers. The app generates a random password, displays it on the page, and includes a copy button for convenience.
+
 ## Built With
 - Python
 - Flask
